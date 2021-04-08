@@ -9,7 +9,7 @@ import datetime
 import config 
 import sys
 import random
-import psycopg2, psycopg2.extras
+#import psycopg2, psycopg2.extras
 import plotly.graph_objects as go
 import plotly.express as px
 import configtweets
