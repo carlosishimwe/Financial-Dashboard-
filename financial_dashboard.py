@@ -11,7 +11,6 @@ import sys
 import random
 import plotly.graph_objects as go
 import plotly.express as px
-import configtweets
 from client import AlphaVantageClient
 from plotly.subplots import make_subplots
 from alpha_vantage.timeseries import TimeSeries
